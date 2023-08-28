@@ -40,13 +40,13 @@ There are four key roles in our network:
 
 ---
 
-![Untitled](.github/profile/how_it_works.png)
+![Untitled](./how_it_works.png)
 
 ## Architecture
 
 ---
 
-![Untitled](.github/profile/architecture.png)
+![Untitled](./architecture.png)
 
 ## Feature Designs
 
@@ -88,7 +88,7 @@ We believe that AGI (Artificial General Intelligence) is not a monopoly or oligo
 
 ### Road Map
 
-![Untitled](.github/profile/roadmap.png)
+![Untitled](./roadmap.png)
 
 ## Team
 
