@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![Untitled](./github/profile/flowchart_1.png)
+![Untitled](./.github/profile/flowchart_1.png)
 
 Bahen Network is a decentralized AI training platform with distributed machine learning protocols. We have two key products:
 
