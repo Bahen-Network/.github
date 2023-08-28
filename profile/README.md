@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![Untitled](./profile/flowchart_1.png)
+![Untitled](.github/profile/flowchart_1.png)
 
 Bahen Network is a decentralized AI training platform with distributed machine learning protocols. We have two key products:
 
@@ -40,13 +40,13 @@ There are four key roles in our network:
 
 ---
 
-![Untitled](./profile/how_it_works.png)
+![Untitled](.github/profile/how_it_works.png)
 
 ## Architecture
 
 ---
 
-![Untitled](./profile/architecture.png)
+![Untitled](.github/profile/architecture.png)
 
 ## Feature Designs
 
@@ -88,18 +88,9 @@ We believe that AGI (Artificial General Intelligence) is not a monopoly or oligo
 
 ### Road Map
 
-![Untitled](./profile/roadmap.png)
+![Untitled](.github/profile/roadmap.png)
 
 ## Team
-| Name | Role | Brief  | Contact |
-| --- | --- | --- | --- |
-| Xiaohu | Product Owner | WEB3 Research Analyst, 多年产品经理经验，本科多伦多大学数学、统计学。目前在团队负责产品开发进度管理以及产品功能设计。 | wechat: xiaohusocool|
-| Kejie | Chief AI Scientist | 微软软件工程师，研究生伊利诺伊大学香槟分校MSCS（全奖 research based master program)，本科多伦多大学工程科学系。目前在团队负责AI算法开发、分布式深度学习协议研究及开发。 | |
-| Xu | Core DEV | 微软软件工程师，本科北京林业大学，ACM亚洲区域赛金牌。目前在团队负责智能合约开发，后端系统开发。 |  |
-| Yongqi | Core DEV | AI工程师，ACM亚洲区域赛银牌。目前在团队负责数据隐私研究及开发。 |  |
-| Xianchao | Core DEV | 微软软件工程师，毕业于山东理工大学，ACM亚洲区域赛铜牌。目前在团队负责智能合约开发，链上链下通信开发。 |  |
-| Jessie | Business & Partnership Manager | 传统行业二级市场研究员，研究生伦敦政治经济学院，本科多伦多大学金融与经济专业。目前在团队负责项目管理、市场研究及合作对接。 |  |
-| Harrison | AI Advisor | CS Phd at University of Michigan, Ann Arbor. |  |
 
 ---
 
@@ -110,5 +101,5 @@ We believe that AGI (Artificial General Intelligence) is not a monopoly or oligo
 | Xu | Fullstack Engineer | Microsoft software engineer; Used to intern @ByteDance; Silver medal in the ACM Asia-Pacific |  |
 | Yongqi | Algorithm Engineer | AI software engineer; Used to intern @ByteDance; Silver medal in the ACM Asia-Pacific |  |
 | Xianchao | Backend Engineer | Microsoft software engineer; Used to intern @Alibaba; Bronze medal in the ACM Asia-Pacific |  |
-| Jessie | Business & Partnership Manager | - Traditional industry research analyst; Used to work @KPMG; Graduate of the LSE; Undergraduate in finance and economics at the University of Toronto |  |
-| Zijian | AI Advisor | - CS Phd at University of Michigan, Ann Arbor. |  |
+| Jessie | Business & Partnership Manager | Traditional industry research analyst; Used to work @KPMG; Graduate of the LSE; Undergraduate in finance and economics at the University of Toronto |  |
+| Zijian | AI Advisor | CS Phd at University of Michigan, Ann Arbor. |  |
