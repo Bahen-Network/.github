@@ -60,21 +60,21 @@ During the hackathon phase, we have implemented two parts of the Proof of Train:
 2. By randomly selecting a certain number of training data for each saved model parameter and calculating the training loss of the sample data, we can compare it with step 1 to verify the effectiveness of the training.
 
 Read more:
-[docs/proof_of_training.pdf](https://github.com/Bahen-Network/Bahen-Client/blob/57af7e8815a2a9162b888d679bce33066f8dd6c4/docs/proof_of_training.pdf)
+[proof_of_training](https://github.com/Bahen-Network/Bahen-Client/blob/57af7e8815a2a9162b888d679bce33066f8dd6c4/docs/proof_of_training.pdf)
 
 ### Implementation of ***Privacy and Safety Modules***
 
 In our project, we have adopted a strategy where clients outsource their training tasks to workers with GPUs. While this approach utilizes computing power and speeds up data processing, it also introduces a new challenge - protecting the privacy of training data and scripts. This article provides a detailed overview of our privacy and security module design, offering comprehensive measures to address these challenges.
 
 Read more:
-[Privacy and Safety Modules](docs/safety_and_privacy.pdf)
+[proof_of_training](https://github.com/Bahen-Network/Bahen-Client/blob/57af7e8815a2a9162b888d679bce33066f8dd6c4/docs/safety_and_privacy.pdf)
 
 ### Reseach on *Task Sharding*
 
 In our project, we are trying to iterate the relationship between order, task, and worker. We are attempting to split one order into multiple tasks to be completed by multiple workers in different locations for deep learning computation and synchronization, moving from a one-to-one relationship to a one-to-many relationship. We are currently in the research stage.
 
 Read more:
-[Task Sharding](docs/task_sharding.pdf)
+[Task Sharding](https://github.com/Bahen-Network/Bahen-Client/blob/57af7e8815a2a9162b888d679bce33066f8dd6c4/docs/task_sharding.pdf)
 
 ## Future Development
 
