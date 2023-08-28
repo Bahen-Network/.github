@@ -60,7 +60,7 @@ During the hackathon phase, we have implemented two parts of the Proof of Train:
 2. By randomly selecting a certain number of training data for each saved model parameter and calculating the training loss of the sample data, we can compare it with step 1 to verify the effectiveness of the training.
 
 Read more:
-[Proof of Train](docs/proof_of_training.pdf)
+[docs/proof_of_training.pdf](https://github.com/Bahen-Network/Bahen-Client/blob/57af7e8815a2a9162b888d679bce33066f8dd6c4/docs/proof_of_training.pdf)
 
 ### Implementation of ***Privacy and Safety Modules***
 
